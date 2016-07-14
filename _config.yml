@@ -1,0 +1,28 @@
+name: M
+favicon: null
+layout_spectrum: 0.792980118887499
+typography_spectrum: 0.40884220181033015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.400267971213907
+  lightness: 0.6794106718152761
+  saturation: 0.6485307354014367
+  rhythmicContrast: 0.16572952712886035
+purpose: []
